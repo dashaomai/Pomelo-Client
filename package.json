@@ -1,0 +1,19 @@
+{
+  "name": "PomeloClient",
+  "version": "0.1.9",
+  "description": "Pomelo Client from NetEase Pomelo-Robot",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dashaomai/Pomelo-Client.git"
+  },
+  "author": "Bob Jiang",
+  "license": "BSD",
+  "dependencies": {
+    "pomelo-logger":"*",
+    "pomelo-protocol":"*",
+    "pomelo-protobuf":"*",
+    "ws":"*"
+  }
+}
